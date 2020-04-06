@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ale&#39;s Page</title>
-    <link>https://sapphi20.github.io/</link>
-    <description>Recent content on Ale&#39;s Page</description>
+    <title>Blogs on Ale&#39;s Page</title>
+    <link>https://sapphi20.github.io/blog/</link>
+    <description>Recent content in Blogs on Ale&#39;s Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Apr 2020 00:47:39 -0400</lastBuildDate>
     
-	<atom:link href="https://sapphi20.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sapphi20.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sapphi20.github.io/about/</loc>
+    <loc>https://sapphi20.github.io/</loc>
+    <lastmod>2020-04-06T00:47:39-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sapphi20.github.io/</loc>
+    <loc>https://sapphi20.github.io/blog/</loc>
+    <lastmod>2020-04-06T00:47:39-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sapphi20.github.io/blog/site-under-construction/</loc>
+    <lastmod>2020-04-06T00:47:39-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sapphi20.github.io/about/</loc>
   </url>
   
   <url>
