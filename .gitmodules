@@ -1,4 +1,0 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/sapphi20/sapphi20.github.io.git
-	branch = master
